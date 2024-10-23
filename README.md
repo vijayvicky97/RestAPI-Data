@@ -4,4 +4,4 @@ Acess the endpoints:
 
 - [localhost/topics/{topic_id}/courses](https://localhost/topics/{topic_id}/courses)
 
-- [localhost/topics/{topic_id}/courses](https://localhost/topics/{topic_id}/courses/{courses_id})
+- [localhost/topics/{topic_id}/courses/{course_id}](https://localhost/topics/{topic_id}/courses/{courses_id})
