@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 23 20:13:14 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0192-bacc-27d2-000001bb6cf8 
+on database directory memory:/Users/vijay/Downloads/rest-api/f6ea79f8-cac1-4d98-93c4-485cac1ebe29 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1dbd16a6 
+Loaded from file:/Users/vijay/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Homebrew
+java.runtime.version=17.0.12+0
+user.dir=/Users/vijay/Downloads/rest-api
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.6.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
